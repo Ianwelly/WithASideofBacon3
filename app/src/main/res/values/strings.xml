@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">With A Side of Bacon</string>
+    <string name="quote_text_view">\'The best bloody rashers this side of the universe!!\'</string>
+    <string name="gordon_ramsbottom">Gordon Ramsbottom</string>
+    <string name="address_text_view">The Square, End of the Universe</string>
+    <string name="opening_hours_text_view">Opening Hours:</string>
+    <string name="monday_friday_text_view">Monday - Friday</string>
+    <string name="opening_times_weekday_text_view">8am - 5pm</string>
+    <string name="saturday">Saturday</string>
+    <string name="saturday_opening_times_text_view">9am- 4pm</string>
+    <string name="sunday">Sunday</string>
+    <string name="end_of_the_universe_text_view">End of the Universe!</string>
+</resources>
